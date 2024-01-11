@@ -4,7 +4,7 @@
 
 .container{
     max-width: 600px;
-    background-color: rgb(6, 137, 137);
+    background-color:#c0c0c0 ;
     margin:auto;
     padding: 20px;
 }
@@ -15,5 +15,5 @@ img {
     display: block;
     max-width: 300px;
     margin:auto;
-    border-radius: 40%;
+    border-radius: 70%;
 }
